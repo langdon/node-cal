@@ -27,3 +27,7 @@ console.log('Server running at http://127.0.0.1:3000/');
 http://download.eclipse.org/orion/drops/S-4.0RC1-201310062230/download.php?dropFile=eclipse-orion-4.0RC1-linux.gtk.x86_64.zip
 
 
+http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
+
+http://coenraets.org/blog/2012/10/nodecellar-sample-application-with-backbone-js-twitter-bootstrap-node-js-express-and-mongodb/
+
