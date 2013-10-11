@@ -31,3 +31,5 @@ http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-
 
 http://coenraets.org/blog/2012/10/nodecellar-sample-application-with-backbone-js-twitter-bootstrap-node-js-express-and-mongodb/
 
+remember setenforce is 0 and iptables is off
+
