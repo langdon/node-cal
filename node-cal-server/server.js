@@ -10,6 +10,6 @@ app.get('/wines/:id', wines.findById);
 app.get('/events', events.findAll);
 app.get('/events/:id', events.findById);
  
-app.listen(3000);
-console.log('Listening on port 3000...');
+app.listen(3100);
+console.log('Listening on port 3100...');
 

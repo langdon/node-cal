@@ -34,7 +34,7 @@ exports.findById = function(req, res) {
 };
 
 exports.findByAll = function(req, res) {
-	console.log('Retrieving all events);
+	console.log('Retrieving all events');
 	db.collection(COLLECTION_NAME, function(err, collection) {
 		collection.find().toArray(function(err, items) {
 			res.send(items);
@@ -42,7 +42,9 @@ exports.findByAll = function(req, res) {
 	});
 };
 
-exports.addEvent = function(req, res)
+exports.addEvent = function(req, res) {
+	
+}
 
 exports.findAll = function(req, res) {
 	res.send([{name:'event1'}, {name:'event2'}]);
