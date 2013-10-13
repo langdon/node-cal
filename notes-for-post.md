@@ -33,3 +33,10 @@ http://coenraets.org/blog/2012/10/nodecellar-sample-application-with-backbone-js
 
 remember setenforce is 0 and iptables is off
 
+
+install mocha (npm install mocha)
+$ npm install superagent
+$ npm install expect.js
+
+
+a post about testing node, how do you mock req/res?
